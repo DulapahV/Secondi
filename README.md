@@ -1,0 +1,2 @@
+# Secondi
+Application for Ideatrade
